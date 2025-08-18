@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjsx&label=Profile%20views&color=0e75b6&style=flat" alt="aryanjsx" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Discover India](https://knowindia.vercel.app/)
 
-- 🌱 I’m currently learning **Networking, Clouds**
+- 🌱 I’m currently learning **Networking, Cloud**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aryankr.netlify.app/)
 
 - 📝 I regularly write articles on [Medium](aryanjsx.medium.com)
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Web development & Azure Cloud**
 
 - 📫 How to reach me **kumararyn1929@gmail.com**
 
