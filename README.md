@@ -23,6 +23,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying Binary, Decimal, and Hexadecimal in Networking](https://aryanjsx.medium.com/demystifying-binary-decimal-and-hexadecimal-in-networking-c2d425bfb157?source=rss-e9121c7489f2------2)
 - [Networking: You should know.](https://aryanjsx.medium.com/networking-you-should-know-19ba769cbce7?source=rss-e9121c7489f2------2)
 - [How GPT-5 Is Better Than Older Models](https://aryanjsx.medium.com/how-gpt-5-is-better-than-older-models-c9cbef2fd7ca?source=rss-e9121c7489f2------2)
 - [️ Bihar Makes History: How India’s First Mobile Voting System Actually Works](https://aryanjsx.medium.com/%EF%B8%8F-bihar-makes-history-how-indias-first-mobile-voting-system-actually-works-b81739e8605c?source=rss-e9121c7489f2------2)
