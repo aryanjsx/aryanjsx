@@ -7,28 +7,28 @@
 
 <p align="left"> <a href="https://twitter.com/aryanjsx" target="blank"><img src="https://img.shields.io/twitter/follow/aryanjsx?logo=twitter&style=for-the-badge" alt="aryanjsx" /></a> </p>
 
-- 🔭 I’m currently working on [Discover India](https://knowindia.vercel.app/)
+🔭 I’m currently working on Discover India
 
-- 🌱 I’m currently learning **Networking, Cloud**
+🌱 I’m currently learning Networking, Cloud
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://aryankr.netlify.app/)
+👨‍💻 All of my projects are available at My Portfolio
 
-- 📝 I regularly write articles on [Medium](aryanjsx.medium.com)
+📝 I regularly write articles on Medium
 
-- 💬 Ask me about **Web development & Azure Cloud**
+💬 Ask me about Web development & Azure Cloud
 
-- 📫 How to reach me **kumararyn1929@gmail.com**
+📫 How to reach me kumararyn1929@gmail.com
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1c1cjrXIZoTJwhzXdOAYhbW-mji8C0ixx/view)
+📄 Know about my experiences My Resume
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Demystifying Binary, Decimal, and Hexadecimal in Networking](https://aryanjsx.medium.com/demystifying-binary-decimal-and-hexadecimal-in-networking-c2d425bfb157?source=rss-e9121c7489f2------2)
-- [Networking: You should know.](https://aryanjsx.medium.com/networking-you-should-know-19ba769cbce7?source=rss-e9121c7489f2------2)
-- [How GPT-5 Is Better Than Older Models](https://aryanjsx.medium.com/how-gpt-5-is-better-than-older-models-c9cbef2fd7ca?source=rss-e9121c7489f2------2)
-- [️ Bihar Makes History: How India’s First Mobile Voting System Actually Works](https://aryanjsx.medium.com/%EF%B8%8F-bihar-makes-history-how-indias-first-mobile-voting-system-actually-works-b81739e8605c?source=rss-e9121c7489f2------2)
-- [Difference between some terms of react](https://aryanjsx.medium.com/react-different-9fceac072cd1?source=rss-e9121c7489f2------2)
-<!-- BLOG-POST-LIST:END -->
+✍️ Recent Blog Posts
+<table>
+<tr><td><a href='https://aryanjsx.medium.com/demystifying-binary-decimal-and-hexadecimal-in-networking-c2d425bfb157?source=rss-e9121c7489f2------2' target='_blank'><b>Demystifying Binary, Decimal, and Hexadecimal in Networking</b></a></td></tr>
+<tr><td><a href='https://aryanjsx.medium.com/networking-you-should-know-19ba769cbce7?source=rss-e9121c7489f2------2' target='_blank'><b>Networking: You should know.</b></a></td></tr>
+<tr><td><a href='https://aryanjsx.medium.com/how-gpt-5-is-better-than-older-models-c9cbef2fd7ca?source=rss-e9121c7489f2------2' target='_blank'><b>How GPT-5 Is Better Than Older Models</b></a></td></tr>
+<tr><td><a href='https://aryanjsx.medium.com/%EF%B8%8F-bihar-makes-history-how-indias-first-mobile-voting-system-actually-works-b81739e8605c?source=rss-e9121c7489f2------2' target='_blank'><b>️ Bihar Makes History: How India’s First Mobile Voting System Actually Works</b></a></td></tr>
+<tr><td><a href='https://aryanjsx.medium.com/react-different-9fceac072cd1?source=rss-e9121c7489f2------2' target='_blank'><b>Difference between some terms of react</b></a></td></tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,75 +43,75 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background:white; padding:5px; border-radius:5px;"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background:white; padding:5px; border-radius:5px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+</a>
+<a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="background:white; padding:5px; border-radius:5px;"/>
+</a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background:white; padding:5px; border-radius:5px;"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanjsx&show_icons=true&locale=en&layout=compact" alt="aryanjsx" /></p>
@@ -120,5 +120,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjsx&" alt="aryanjsx" /></p>
 
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aryanjsx&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=aryanjsx&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
