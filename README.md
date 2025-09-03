@@ -17,7 +17,7 @@
 
 💬 Ask me about Web development & Azure Cloud
 
-📫 How to reach me kumararyn1929@gmail.com
+📫 How to reach me kumararyan1929@gmail.com
 
 📄 Know about my experiences My Resume
 
