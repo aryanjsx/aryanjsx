@@ -29,8 +29,6 @@
 - [How GPT-5 Is Better Than Older Models](https://aryanjsx.medium.com/how-gpt-5-is-better-than-older-models-c9cbef2fd7ca?source=rss-e9121c7489f2------2)
 - [️ Bihar Makes History: How India’s First Mobile Voting System Actually Works](https://aryanjsx.medium.com/%EF%B8%8F-bihar-makes-history-how-indias-first-mobile-voting-system-actually-works-b81739e8605c?source=rss-e9121c7489f2------2)
 - [Difference between some terms of react](https://aryanjsx.medium.com/react-different-9fceac072cd1?source=rss-e9121c7489f2------2)
-
-- For more blogs click here --> [Aryanjsx - Medium](https://aryanjsx.medium.com/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
