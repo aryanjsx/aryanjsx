@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryan</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Aryan Kumar (aryanjsx)</h1>
+<h3 align="center">Full-Stack & Cloud Developer Portfolio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanjsx&label=Profile%20views&color=0e75b6&style=flat" alt="aryanjsx" /> </p>
 
