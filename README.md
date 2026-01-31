@@ -25,7 +25,7 @@
 | **🌱 Learning** | Networking, Cloud |
 | **💬 Ask me** | Web development & Azure Cloud |
 | **📫 Email** | [kumararyan1929@gmail.com](mailto:kumararyan1929@gmail.com) |
-| **🔗 Links** | [aryankr.netlify.app](aryankr.netlify.app) |
+| **🔗 Links** | [aryankr.in](aryankr.in) |
 
 ---
 
