@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/github/stars/aryanjsx?affiliations=OWNER&logo=github&style=flat-square&color=0d9488" alt="stars" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanjsx&theme=dark&hide_border=true&background=0d1117&stroke=0d9488&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" height="160" alt="Streak" />
-</p>
-
 ---
 
 ## 👋 About
