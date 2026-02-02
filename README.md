@@ -24,7 +24,7 @@
 | **🔭 Building** | [Discover India](https://github.com/aryanjsx) |
 | **🌱 Learning** | Networking, Cloud |
 | **💬 Ask me** | Web development & Azure Cloud |
-| **📫 Email** | [kumararyan1929@gmail.com](mailto:kumararyan1929@gmail.com) |
+| **📫 Email** | [me@aryankr.in](mailto:me@aryankr.in) |
 | **🔗 Links** | [aryankr.in](aryankr.in) |
 
 ---
