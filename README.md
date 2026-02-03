@@ -21,7 +21,7 @@
 
 | | |
 |:---|:---|
-| **🔭 Building** | [Discover India](https://github.com/aryanjsx) |
+| **🔭 Building** | [Discover India](https://knowindia.vercel.app/) |
 | **🌱 Learning** | Networking, Cloud |
 | **💬 Ask me** | Web development & Azure Cloud |
 | **📫 Email** | [me@aryankr.in](mailto:me@aryankr.in) |
