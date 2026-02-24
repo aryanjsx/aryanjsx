@@ -19,13 +19,28 @@
 
 ## 👋 About
 
-| | |
-|:---|:---|
-| **🔭 Building** | [AURA] |
-| **🌱 Learning** | Networking, Linux |
-| **💬 Ask me** | Web development & Azure Cloud |
-| **📫 Email** | [me@aryankr.in](mailto:me@aryankr.in) |
-| **🔗 Portfolio** | [aryankr.in](aryankr.in) |
+<table>
+  <tr>
+    <td>🔭 <b>Building</b></td>
+    <td>AURA</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning</b></td>
+    <td>Networking, Linux</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask me</b></td>
+    <td>Web development & Azure Cloud</td>
+  </tr>
+  <tr>
+    <td>📫 <b>Email</b></td>
+    <td><a href="mailto:me@aryankr.in">me@aryankr.in</a></td>
+  </tr>
+  <tr>
+    <td>🔗 <b>Portfolio</b></td>
+    <td><a href="https://aryankr.in">aryankr.in</a></td>
+  </tr>
+</table>
 
 ---
 
