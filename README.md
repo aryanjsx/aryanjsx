@@ -21,8 +21,8 @@
 
 | | |
 |:---|:---|
-| **🔭 Building** | [Discover India](https://knowindia.aryankr.in/) |
-| **🌱 Learning** | Networking, Cloud |
+| **🔭 Building** | [AURA] |
+| **🌱 Learning** | Networking, Linux |
 | **💬 Ask me** | Web development & Azure Cloud |
 | **📫 Email** | [me@aryankr.in](mailto:me@aryankr.in) |
 | **🔗 Portfolio** | [aryankr.in](aryankr.in) |
