@@ -25,7 +25,7 @@
 | **🌱 Learning** | Networking, Cloud |
 | **💬 Ask me** | Web development & Azure Cloud |
 | **📫 Email** | [me@aryankr.in](mailto:me@aryankr.in) |
-| **🔗 Links** | [aryankr.in](aryankr.in) |
+| **🔗 Portfolio** | [aryankr.in](aryankr.in) |
 
 ---
 
