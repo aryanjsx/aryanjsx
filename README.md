@@ -29,8 +29,8 @@ FULL-STACK & CLOUD DEVELOPER
 
 <h1 style="font-size:72px;line-height:.95;
 margin:0;color:#0a0a0f;">
-Aryan<br>
-<span style="color:#c84b2f;"><em>Kumar</em></span>
+Aryan
+<span style="color:#c84b2f;">Kumar</span>
 </h1>
 
 <p style="color:#7a7060;font-size:15px;
@@ -156,5 +156,5 @@ font-size:11px;margin-top:20px;">
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aryanjsx&label=views&color=c84b2f&style=flat-square"/>
+<a href="https://aryankr.in" color="black">aryanjsx</a>
 </p>
