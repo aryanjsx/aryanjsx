@@ -1,160 +1,175 @@
-<!--
-██████╗ ███████╗ █████╗ ██████╗ ███╗   ███╗███████╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔════╝
-██████╔╝█████╗  ███████║██║  ██║██╔████╔██║█████╗  
-██╔══██╗██╔══╝  ██╔══██║██║  ██║██║╚██╔╝██║██╔══╝  
-██║  ██║███████╗██║  ██║██████╔╝██║ ╚═╝ ██║███████╗
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚═╝     ╚═╝╚══════╝
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aryan%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20Developer%20%C2%B7%20Cloud%20Engineer&descSize=18&descAlignY=52&descColor=ffffffcc" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://aryankr.in">
+    <img src="https://img.shields.io/badge/Portfolio-ff6b6b?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/aryanjsx">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://aryanjsx.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:me@aryankr.in">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&width=700&height=40&lines=+%C2%B7+crafting+web+experiences+with+React%2C+Node.js+%26+Azure" />
+</div>
+
+<br>
+
+```js
+const aryan = {
+    role: "Full-Stack & Cloud Developer",
+    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    technologies: {
+        frontEnd:  { frameworks: ["React", "Next.js"], styling: ["Tailwind CSS"] },
+        backEnd:   { runtime: "Node.js", frameworks: ["Express", "GraphQL"] },
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        cloud:     ["Azure", "Firebase"],
+        os:        "Linux"
+    },
+    currentlyBuilding: "AURA",
+    exploring: ["Networking", "Linux Internals"],
+    availableForHire: true
+};
+```
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
 
-<div style="max-width:860px;background:#f5f0e8;
-padding:48px 28px;color:#0a0a0f;
-font-family:-apple-system,BlinkMacSystemFont,
-Segoe UI,Helvetica,Arial,sans-serif;">
-
-<div style="display:flex;justify-content:space-between;
-align-items:end;border-bottom:2px solid #0a0a0f;
-padding-bottom:32px;margin-bottom:40px;
-flex-wrap:wrap;">
-
-<div align="left">
-
-<div style="font-size:11px;letter-spacing:.2em;
-text-transform:uppercase;color:#c84b2f;
-margin-bottom:8px;">
-FULL-STACK & CLOUD DEVELOPER
-</div>
-
-<h1 style="font-size:72px;line-height:.95;
-margin:0;color:#0a0a0f;">
-Aryan
-<span style="color:#c84b2f;">Kumar</span>
-</h1>
-
-<p style="color:#7a7060;font-size:15px;
-max-width:420px;line-height:1.7;">
-Building AURA · crafting web experiences with React,
-Node.js & Azure. Currently exploring the depths
-of networking & Linux.
-</p>
-
-<div style="display:inline-flex;
-align-items:center;
-background:#0a0a0f;color:#f5f0e8;
-border-radius:100px;
-padding:6px 16px;
-font-size:11px;margin-top:20px;">
-🟢 Available for interesting projects
-</div>
+| | Technologies |
+|:-:|:-:|
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" height="45" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,firebase&theme=dark" height="45" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" height="45" /> |
+| **Cloud & OS** | <img src="https://skillicons.dev/icons?i=azure,linux,docker&theme=dark" height="45" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" height="45" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" height="45" /> |
 
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryanjsx&theme=radical" width="100%" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryanjsx&theme=radical" width="32%" />
+  <img src="https://streak-stats.demolab.com/?user=aryanjsx&theme=radical&hide_border=true&border_radius=8" width="34%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aryanjsx&theme=radical&utcOffset=5.5" width="32%" />
 </div>
 
----
+<br>
 
-<div style="font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:#7a7060;margin:20px 0;">01 TECH STACK</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryanjsx&theme=radical" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanjsx&theme=radical" width="32%" />
+</div>
 
-<table>
-  <tr>
-    <td width="140"><strong>Frontend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=light" height="40" alt="React, Next.js, Tailwind CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,firebase&theme=light" height="40" alt="Node.js, Express, GraphQL, Firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=light" height="40" alt="MongoDB, PostgreSQL, MySQL" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Cloud & DevOps</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=azure,linux&theme=light" height="40" alt="Azure, Linux" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=light" height="40" alt="JavaScript, TypeScript, Python, Java" />
-    </td>
-  </tr>
-</table>
+<br>
 
----
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanjsx&theme=react-dark&hide_border=true&area=true&color=a960ff&line=a960ff&point=ff6b6b" width="100%" />
+</div>
 
-<div style="font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:#7a7060;margin:20px 0;">02 GITHUB</div>
+<br>
 
-<p align="center">
-  <a href="https://github.com/aryanjsx">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryanjsx&theme=solarized" width="48%" alt="GitHub Stats" />
-  </a>&nbsp;
-  <a href="https://github.com/aryanjsx">
-    <img src="https://streak-stats.demolab.com/?user=aryanjsx&hide_border=true&background=f5f0e8&ring=c84b2f&fire=c84b2f&currStreakLabel=0a0a0f&sideLabels=0a0a0f&currStreakNum=0a0a0f&sideNums=0a0a0f&dates=7a7060" width="48%" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Latest Writing
+
+<div align="center">
+
+| # | Article |
+|:-:|:--|
+| 01 | Demystifying Binary, Decimal & Hexadecimal in Networking |
+| 02 | Networking: You Should Know |
+| 03 | How GPT-5 Is Better Than Older Models |
+| 04 | Bihar Makes History: India's First Mobile Voting System |
+| 05 | Difference Between Some Terms of React |
+
+</div>
+
+<div align="center">
+  <a href="https://aryanjsx.medium.com/">
+    <img src="https://img.shields.io/badge/Read%20More%20on%20Medium-a960ff?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/aryanjsx">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryanjsx&theme=solarized" width="48%" alt="Top Languages" />
-  </a>&nbsp;
-  <a href="https://github.com/aryanjsx">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aryanjsx&theme=solarized" width="48%" alt="Most Used Languages" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanjsx&bg_color=f5f0e8&color=0a0a0f&line=c84b2f&point=c84b2f&area=true&area_color=c84b2f&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
----
+<br>
 
-<div style="font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:#7a7060;margin:20px 0;">03 LATEST WRITING</div>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Let's Connect
 
-- Demystifying Binary, Decimal & Hexadecimal in Networking  
-- Networking: You Should Know  
-- How GPT-5 Is Better Than Older Models  
-- Bihar Makes History: India's First Mobile Voting System  
-- Difference Between Some Terms of React  
-
----
-
-<div style="font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:#7a7060;margin:20px 0;">04 CONNECT</div>
-
-<p>
+<div align="center">
   <a href="https://linkedin.com/in/aryanjsx">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="https://aryanjsx.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;
   <a href="https://leetcode.com/aryanjsx">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>&nbsp;
   <a href="https://www.geeksforgeeks.org/user/aryanjsx/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>&nbsp;
   <a href="https://instagram.com/aryanjsx">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;
   <a href="mailto:me@aryankr.in">
-    <img src="https://img.shields.io/badge/Email-c84b2f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
 
----
+<br>
 
-<p align="center">
-<a href="https://aryankr.in" color="black">aryanjsx</a>
-</p>
+<br>
+
+<div align="center">
+  &nbsp;&middot;&nbsp;
+  <sub>crafted by <strong>@aryanjsx</strong></sub>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+</div>
