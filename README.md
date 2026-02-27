@@ -9,132 +9,55 @@
 
 <div align="center">
 
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet"/>
+<div style="max-width:860px;background:#f5f0e8;
+padding:48px 28px;color:#0a0a0f;
+font-family:-apple-system,BlinkMacSystemFont,
+Segoe UI,Helvetica,Arial,sans-serif;">
 
-<style>
-:root {
-  --ink: #0a0a0f;
-  --paper: #f5f0e8;
-  --paper2: #ede8dd;
-  --accent: #c84b2f;
-  --accent2: #1a3a5c;
-  --gold: #b8860b;
-  --muted: #7a7060;
-  --border: #d4cfc4;
-  --mono: 'JetBrains Mono', monospace;
-  --serif: 'Instrument Serif', serif;
-  --sans: 'Space Grotesk', sans-serif;
-}
+<div style="display:flex;justify-content:space-between;
+align-items:end;border-bottom:2px solid #0a0a0f;
+padding-bottom:32px;margin-bottom:40px;
+flex-wrap:wrap;">
 
-body {
-  background: var(--paper);
-  color: var(--ink);
-  font-family: var(--sans);
-  font-size: 14px;
-  line-height: 1.6;
-  max-width: 860px;
-  margin: 0 auto;
-  padding: 48px 28px;
-}
+<div align="left">
 
-.hero {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 32px;
-  align-items: end;
-  padding-bottom: 32px;
-  border-bottom: 2px solid var(--ink);
-  margin-bottom: 40px;
-}
+<div style="font-size:11px;letter-spacing:.2em;
+text-transform:uppercase;color:#c84b2f;
+margin-bottom:8px;">
+FULL-STACK & CLOUD DEVELOPER
+</div>
 
-.eyebrow {
-  font-family: var(--mono);
-  font-size: 11px;
-  letter-spacing: 0.2em;
-  text-transform: uppercase;
-  color: var(--accent);
-  margin-bottom: 8px;
-}
+<h1 style="font-size:72px;line-height:.95;
+margin:0;color:#0a0a0f;">
+Aryan<br>
+<span style="color:#c84b2f;"><em>Kumar</em></span>
+</h1>
 
-.hero-name {
-  font-family: var(--serif);
-  font-size: 72px;
-  line-height: 0.95;
-}
+<p style="color:#7a7060;font-size:15px;
+max-width:420px;line-height:1.7;">
+Building AURA · crafting web experiences with React,
+Node.js & Azure. Currently exploring the depths
+of networking & Linux.
+</p>
 
-.hero-name em {
-  font-style: italic;
-  color: var(--accent);
-}
-
-.hero-desc {
-  color: var(--muted);
-  font-size: 15px;
-  max-width: 420px;
-  line-height: 1.7;
-}
-
-.status-pill {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  background: var(--ink);
-  color: var(--paper);
-  border-radius: 100px;
-  padding: 6px 16px;
-  font-size: 11px;
-  margin-top: 20px;
-}
-
-.section-label {
-  font-family: var(--mono);
-  font-size: 10px;
-  letter-spacing: 0.25em;
-  text-transform: uppercase;
-  color: var(--muted);
-  margin: 20px 0;
-}
-
-.chip {
-  border: 1.5px solid var(--border);
-  border-radius: 6px;
-  padding: 6px 14px;
-  font-size: 13px;
-  margin:4px;
-  display:inline-block;
-}
-
-.connect-link {
-  padding: 10px 14px;
-  border: 1.5px solid var(--border);
-  border-radius: 8px;
-  text-decoration: none;
-  color: var(--ink);
-  font-size: 13px;
-  margin:4px;
-  display:inline-block;
-}
-</style>
+<div style="display:inline-flex;
+align-items:center;
+background:#0a0a0f;color:#f5f0e8;
+border-radius:100px;
+padding:6px 16px;
+font-size:11px;margin-top:20px;">
+🟢 Available for interesting projects
+</div>
 
 </div>
 
-<header class="hero">
-  <div>
-    <div class="eyebrow">Full-Stack & Cloud Developer</div>
-    <h1 class="hero-name">Aryan<br><em>Kumar</em></h1>
-    <p class="hero-desc">
-    Building AURA · crafting web experiences with React, Node.js & Azure.
-    Currently exploring the depths of networking & Linux.
-    </p>
-    <div class="status-pill">
-      🟢 Available for interesting projects
-    </div>
-  </div>
-</header>
+</div>
+</div>
+</div>
 
 ---
 
-<div class="section-label">01 TECH STACK</div>
+<div style="font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:#7a7060;margin:20px 0;">01 TECH STACK</div>
 
 <table>
   <tr>
@@ -171,7 +94,7 @@ body {
 
 ---
 
-<div class="section-label">02 GITHUB</div>
+<div style="font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:#7a7060;margin:20px 0;">02 GITHUB</div>
 
 <p align="center">
   <a href="https://github.com/aryanjsx">
@@ -197,7 +120,7 @@ body {
 
 ---
 
-<div class="section-label">03 LATEST WRITING</div>
+<div style="font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:#7a7060;margin:20px 0;">03 LATEST WRITING</div>
 
 - Demystifying Binary, Decimal & Hexadecimal in Networking  
 - Networking: You Should Know  
@@ -207,7 +130,7 @@ body {
 
 ---
 
-<div class="section-label">04 CONNECT</div>
+<div style="font-size:10px;letter-spacing:.25em;text-transform:uppercase;color:#7a7060;margin:20px 0;">04 CONNECT</div>
 
 <p>
   <a href="https://linkedin.com/in/aryanjsx">
