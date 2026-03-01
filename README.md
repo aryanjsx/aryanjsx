@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aryan%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Full-Stack%20Developer%20%C2%B7%20Cloud%20Engineer&descSize=18&descAlignY=52&descColor=ffffffcc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aryan%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20%C2%B7%20GEN%20AI%20Developer&descSize=18&descAlignY=52&descColor=ffffffcc" width="100%" />
 </div>
 
 <div align="center">
@@ -20,15 +20,15 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&width=700&height=40&lines=+%C2%B7+crafting+web+experiences+with+React%2C+Node.js+%26+Azure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&width=700&height=40&lines=+crafting+web+experiences+with+React%2C+Node.js+%26+Azure" />
 </div>
 
 <br>
 
 ```js
 const aryan = {
-    role: "Full-Stack & Cloud Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Java"],
+    role: "Software Engineer | Gen AI Developer",
+    code: ["JavaScript", "MySQL", "Python", "Java", Azure],
     technologies: {
         frontEnd:  { frameworks: ["React", "Next.js"], styling: ["Tailwind CSS"] },
         backEnd:   { runtime: "Node.js", frameworks: ["Express", "GraphQL"] },
@@ -37,7 +37,7 @@ const aryan = {
         os:        "Linux"
     },
     currentlyBuilding: "AURA",
-    exploring: ["Networking", "Linux Internals"],
+    exploring: ["Networking", "Linux"],
     availableForHire: true
 };
 ```
