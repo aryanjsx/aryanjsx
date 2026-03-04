@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aryan%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20%C2%B7%20GEN%20AI%20Developer&descSize=18&descAlignY=52&descColor=ffffffcc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aryan%20Kumar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20%C2%B7%20Gen%20AI%20Developer&descSize=18&descAlignY=52&descColor=ffffffcc" width="100%" />
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
 ```js
 const aryan = {
     role: "Software Engineer | Gen AI Developer",
-    code: ["JavaScript", "MySQL", "Python", "Java", Azure],
+    code: ["JavaScript", "MySQL", "Python", "Java", "Azure"],
     technologies: {
         frontEnd:  { frameworks: ["React", "Next.js"], styling: ["Tailwind CSS"] },
         backEnd:   { runtime: "Node.js", frameworks: ["Express", "GraphQL"] },
@@ -50,7 +50,7 @@ const aryan = {
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
+<!--## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
 
@@ -71,7 +71,7 @@ const aryan = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<br>
+<br>-->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
 
@@ -112,7 +112,7 @@ const aryan = {
 
 <div align="center">
 
-| # | Article |
+| S. No. | Article |
 |:-:|:--|
 | 01 | Demystifying Binary, Decimal & Hexadecimal in Networking |
 | 02 | Networking: You Should Know |
@@ -164,7 +164,6 @@ const aryan = {
 <br>
 
 <div align="center">
-  &nbsp;&middot;&nbsp;
   <sub>crafted by <strong>@aryanjsx</strong></sub>
 </div>
 
