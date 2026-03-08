@@ -27,17 +27,37 @@
 
 ```js
 const aryan = {
-    role: "Software Engineer | Gen AI Developer",
-    code: ["JavaScript", "MySQL", "Python", "Java", "Azure"],
+    role: "Software Engineer | DevOps & Local AI Enthusiast",
+
+    languages: ["JavaScript", "Python", "Java", "SQL"],
+
     technologies: {
-        frontEnd:  { frameworks: ["React", "Next.js"], styling: ["Tailwind CSS"] },
-        backEnd:   { runtime: "Node.js", frameworks: ["Express", "GraphQL"] },
+        frontend: {
+            frameworks: ["React", "Next.js"],
+            styling: ["Tailwind CSS"]
+        },
+        backend: {
+            runtime: "Node.js",
+            frameworks: ["Express", "GraphQL"]
+        },
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        cloud:     ["Azure", "Firebase"],
-        os:        "Linux"
+        cloud: ["Azure", "Firebase"],
+        devops: ["Docker", "Git", "Linux"],
+        ai: ["Local LLMs", "Ollama", "Whisper"]
+        os: ["Linux"]
     },
-    currentlyBuilding: "AURA",
-    exploring: ["Networking", "Linux"],
+
+    currentlyBuilding: "AURA — Offline AI Developer Assistant",
+
+    exploring: [
+        "Local AI Infrastructure",
+        "Voice AI Pipelines (STT → LLM → TTS)",
+        "System Architecture",
+        "DevOps Automation"
+    ],
+
+    goal: "Building privacy-first developer tools powered by local AI",
+
     availableForHire: true
 };
 ```
