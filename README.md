@@ -27,7 +27,7 @@
 
 ```js
 const aryan = {
-    role: "Software Engineer | DevOps & Local AI Enthusiast",
+    role: "Software Engineer | Gen AI Developer",
 
     languages: ["JavaScript", "Python", "Java", "SQL"],
 
@@ -43,7 +43,7 @@ const aryan = {
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
         cloud: ["Azure", "Firebase"],
         devops: ["Docker", "Git", "Linux"],
-        ai: ["Local LLMs", "Ollama", "Whisper"]
+        ai: ["Local LLMs", "Ollama", "Whisper"],
         os: ["Linux"]
     },
 
@@ -128,7 +128,7 @@ const aryan = {
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Latest Writing
+<!--## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Latest Writing
 
 <div align="center">
 
@@ -140,13 +140,8 @@ const aryan = {
 | 04 | Bihar Makes History: India's First Mobile Voting System |
 | 05 | Difference Between Some Terms of React |
 
-</div>
+</div>-->
 
-<div align="center">
-  <a href="https://aryanjsx.medium.com/">
-    <img src="https://img.shields.io/badge/Read%20More%20on%20Medium-a960ff?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</div>
 
 <br>
 
@@ -176,6 +171,9 @@ const aryan = {
   </a>&nbsp;
   <a href="mailto:me@aryankr.in">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://aryanjsx.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-a960ff?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
 
