@@ -128,23 +128,6 @@ const aryan = {
 
 <br>
 
-<!--## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Latest Writing
-
-<div align="center">
-
-| S. No. | Article |
-|:-:|:--|
-| 01 | Demystifying Binary, Decimal & Hexadecimal in Networking |
-| 02 | Networking: You Should Know |
-| 03 | How GPT-5 Is Better Than Older Models |
-| 04 | Bihar Makes History: India's First Mobile Voting System |
-| 05 | Difference Between Some Terms of React |
-
-</div>-->
-
-
-<br>
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Let's Connect
 
 <div align="center">
