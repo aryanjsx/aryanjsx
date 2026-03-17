@@ -1,38 +1,38 @@
-```js
-const aryan = {
-  role: "Software Engineer | Gen AI Developer",
+```python
+aryan = {
+    "role": "Software Engineer | Gen AI Developer",
 
-  languages: ["JavaScript", "Python", "Java", "SQL"],
+    "languages": ["JavaScript", "Python", "Java", "SQL"],
 
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS"],
+    "technologies": {
+        "frontend": {
+            "frameworks": ["React", "Next.js"],
+            "styling": ["Tailwind CSS"],
+        },
+        "backend": {
+            "runtime": "Node.js",
+            "frameworks": ["Express", "GraphQL"],
+        },
+        "databases": ["MongoDB", "PostgreSQL", "MySQL"],
+        "cloud": ["Azure", "Firebase"],
+        "devops": ["Docker", "Git", "Linux"],
+        "ai": ["Local LLMs", "Ollama", "Whisper"],
+        "os": ["Linux"],
     },
-    backend: {
-      runtime: "Node.js",
-      frameworks: ["Express", "GraphQL"],
-    },
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    cloud: ["Azure", "Firebase"],
-    devops: ["Docker", "Git", "Linux"],
-    ai: ["Local LLMs", "Ollama", "Whisper"],
-    os: ["Linux"],
-  },
 
-  currentlyBuilding: "AURA — Offline AI Developer Assistant",
+    "currentlyBuilding": "AURA — Offline AI Developer Assistant",
 
-  exploring: [
-    "Local AI Infrastructure",
-    "Voice AI Pipelines (STT → LLM → TTS)",
-    "System Architecture",
-    "DevOps Automation",
-  ],
+    "exploring": [
+        "Local AI Infrastructure",
+        "Voice AI Pipelines (STT → LLM → TTS)",
+        "System Architecture",
+        "DevOps Automation",
+    ],
 
-  goal: "Building privacy-first developer tools powered by local AI",
+    "goal": "Building privacy-first developer tools powered by local AI",
 
-  availableForHire: true,
-};
+    "availableForHire": True,
+}
 ```
 
 <br>
