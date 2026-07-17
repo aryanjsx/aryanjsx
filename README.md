@@ -1,6 +1,6 @@
 ```python
 aryan = {
-    "role": "Software Engineer | Gen AI Developer",
+    "role": "DevOps Enginner",
 
     "languages": ["JavaScript", "Python", "Java", "SQL"],
 
@@ -15,7 +15,7 @@ aryan = {
         },
         "databases": ["MongoDB", "PostgreSQL", "MySQL"],
         "cloud": ["Azure", "Firebase"],
-        "devops": ["Docker", "Git", "Linux"],
+        "devops": ["Docker", "Git", "Linux", "Terraform", "Kubernetes"],
         "ai": ["Local LLMs", "Ollama", "Whisper"],
         "os": ["Linux"],
     },
