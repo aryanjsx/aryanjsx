@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="my_photo.jpg" alt="Aryan JSX profile card" width="100%" />
+  <img src="my_photo.jpg" alt="Aryan JSX profile card" width="50%" Height="50%"/>
 </div>
 
 <h1 align="center">Aryan Kumar</h1>
