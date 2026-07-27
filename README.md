@@ -1,7 +1,7 @@
 <h1 align="center">Aryan Kumar</h1>
 <p align="center">Software Engineer • AI-first developer tooling • Local-first infrastructure</p>
-<div align="left">
-  <img src="my_photo.jpg" alt="Aryan JSX profile card" width="100%" Height="50%"/>
+<div align="center">
+  <img src="my_photo.jpg" alt="Aryan JSX profile card" width="50%" Height="50%"/>
 </div>
 
 <div align="center">
