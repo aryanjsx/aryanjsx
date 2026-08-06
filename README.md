@@ -32,7 +32,6 @@ Goal:      Building privacy-first developer tools powered by local AI
 ## About Me
 
 - **Role:** Software Engineer
-- **Born:** 03 Jan 2001
 - **Current focus:** Data Engineering
 - **Project:** AURA — offline AI developer assistant
 
