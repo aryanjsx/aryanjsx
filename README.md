@@ -1,14 +1,3 @@
-<h1 align="center">Aryan Kumar</h1>
-<p align="center">Software Engineer • AI-first developer tooling • Local-first infrastructure</p>
-<div align="center">
-  <img src="my_photo.jpg" alt="Aryan JSX profile card" width="50%" Height="50%"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="50%" />
-</div>
-
-
 ## Profile Overview
 
 ```text
