@@ -3,6 +3,7 @@
 ```text
 Aryan Kumar ~
 -------------------------
+Role:     Software Engineer
 OS:       Windows 11, Linux
 Uptime:   25 years, 6 months, 23 days
 Kernel:   Monolithic + Hybrid Kernel
@@ -10,7 +11,7 @@ IDE:      VSCode, IntelliJ, Pycharm, Zed
 
 Languages: JavaScript, Python, Java, SQL
 Tech:      React, Next.js, Tailwind CSS, Node.js, Express, GraphQL
-Cloud:     Azure, Firebase
+Cloud:     Azure, Firebase, AWS
 DevOps:    Docker, Git, Linux, Terraform, Kubernetes
 AI:        Local LLMs, Ollama, Whisper
 
@@ -18,27 +19,14 @@ Building:  AURA — Offline AI Developer Assistant
 Goal:      Building privacy-first developer tools powered by local AI
 ```
 
-## About Me
-
-- **Role:** Software Engineer
-- **Current focus:** Data Engineering
-- **Project:** AURA — offline AI developer assistant
-
-## Tech Stack
-
-- **Languages:** JavaScript, Python, Java, SQL
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, GraphQL
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Cloud:** Azure, Firebase
-- **DevOps:** Docker, Git, Linux, Terraform, Kubernetes
-- **AI:** Local LLMs, Ollama, Whisper
-
 ## Connect with me
 
 <div align="center">
   <a href="https://linkedin.com/in/aryanjsx">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+    <a href="https://linkedin.com/in/aryanjsx">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://aryanjsx.medium.com/">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
