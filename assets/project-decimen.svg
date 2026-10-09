@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="124" viewBox="0 0 900 124" fill="none">
+<rect x="0.5" y="0.5" width="899" height="123" rx="14" fill="#0b0f17" stroke="#1f2633"/>
+<defs>
+  <linearGradient id="sh" x1="0" x2="1">
+    <stop offset="0" stop-color="#58a6ff" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#58a6ff"/>
+    <stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="clip"><rect x="0.5" y="0.5" width="899" height="123" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect x="0" y="0" width="4" height="124" fill="#58a6ff"/>
+  <rect y="0" width="220" height="2" fill="url(#sh)">
+    <animate attributeName="x" values="-220;900" dur="3.6s" begin="1.4s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<text x="30" y="38" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5"><tspan fill="#58a6ff">02</tspan><tspan fill="#484f58">  /  </tspan><tspan fill="#8b949e">OPTICAL FILE TRANSFER</tspan></text>
+<text x="30" y="74" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="27" font-weight="700" fill="#e6edf3">Decimen</text>
+<text x="30" y="102" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="15" fill="#8b949e">Send files screen-to-camera with animated QR codes and fountain coding. No pairing, no network.</text>
+<rect x="796.2" y="22" width="73.8" height="24" rx="12" fill="#0f1520" stroke="#1f2633"/><text x="833.1" y="38.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e">browser</text>
+<rect x="692.2" y="22" width="96.0" height="24" rx="12" fill="#0f1520" stroke="#1f2633"/><text x="740.2" y="38.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#8b949e">typescript</text>
+<g><text x="870" y="80" text-anchor="end" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="22" fill="#58a6ff">→</text><animateTransform attributeName="transform" type="translate" values="0 0;6 0;0 0" dur="1.6s" repeatCount="indefinite"/></g>
+</svg>
