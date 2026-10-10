@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello there! 👋
 
 I'm [**Aryan Kumar**](https://aryankr.in)   
@@ -22,3 +23,16 @@ Check out my [portfolio](https://aryankr.in) for more of my work, read my posts 
 <a href="https://media.licdn.com/dms/image/v2/D561FAQFtJskQa-2S3Q/feedshare-document-images_800/feedshare-document-images_800/1/1730259423591?e=1792627200&v=beta&t=pEeNBgYf9fh87OmeZTQf23fFQbW6FflipQtkSVbLPw4" target="_blank" rel="noopener noreferrer"><img src="./assets/certifications/ltm.jpg" width="48" height="48" alt="Gen Ai Foundations" title="Gen Ai Foundations" /></a>
 <a href="https://www.udemy.com/certificate/UC-2b6d148e-8958-4f4c-9462-68ce7db6186d/" target="_blank" rel="noopener noreferrer"><img src="./assets/certifications/udemy.svg" width="48" height="48" alt="Linux Administration" title="Linux Administration" /></a>
 </p>    
+=======
+[![ARYAN — software engineer building privacy-first tools](assets/hero.svg)](https://aryankr.in)
+
+[![git log of selected work](assets/gitlog.svg)](https://github.com/aryanjsx?tab=repositories)
+
+[Locus](https://github.com/aryanjsx/Locus) · [Decimen](https://github.com/aryanjsx/Decimen) · [Openclaude](https://github.com/aryanjsx/Openclaude) · [Stackloop](https://github.com/aryanjsx/Stackloop) · [all repos →](https://github.com/aryanjsx?tab=repositories)
+
+![Toolbox](assets/keys.svg)
+
+![Listening… say hi](assets/footer.svg)
+
+[aryankr.in](https://aryankr.in) · [LinkedIn](https://linkedin.com/in/aryanjsx) · [Medium](https://aryanjsx.medium.com/) · [LeetCode](https://leetcode.com/aryanjsx) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/aryanjsx/) · [Instagram](https://instagram.com/aryanjsx) · [me@aryankr.in](mailto:me@aryankr.in)
+>>>>>>> ce659fc96080a9f94081f557ed0d020c1db8aed9
