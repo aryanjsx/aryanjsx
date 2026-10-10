@@ -1,71 +1,24 @@
-<h1 align="center">Aryan Kumar</h1>
-<p align="center">Software Engineer • AI-first developer tooling • Local-first infrastructure</p>
-<div align="center">
-  <img src="my_photo.jpg" alt="Aryan JSX profile card" width="50%" Height="50%"/>
-</div>
+Hello there! 👋
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="50%" />
-</div>
+I'm [**Aryan Kumar**](https://aryankr.in)   
+**Software Engineer | Full Stack & AI**
+> Open to software engineering, full stack, and AI-focused roles and collaborations - let's talk.
 
+I build software that respects the user tools that run on your own machine, keep your data private, and keep working without a network. My stack is TypeScript, Python, JavaScript, React, and Node.js, with LLMs where they genuinely add value.
 
-## Profile Overview
+Currently at LTIMindtree, I design, and build scalable web applications, working across the stack with TypeScript, JavaScript, React, Node.js, sql, Python and Azure. IFocused on code quality, maintainability, and end-to-end feature delivery, with an emphasis on collaborative development, code reviews, and reliable software deployment.
 
-```text
-Aryan Kumar ~
--------------------------
-OS:       Windows 11, Linux
-Uptime:   25 years, 6 months, 23 days
-Kernel:   Monolithic + Hybrid Kernel
-IDE:      VSCode, IntelliJ, Pycharm, Zed
+Right now I'm working on [Locus](https://github.com/aryanjsx/Locus), a private, offline-first assistant for your PC that runs spoken or typed commands locally. 
 
-Languages: JavaScript, Python, Java, SQL
-Tech:      React, Next.js, Tailwind CSS, Node.js, Express, GraphQL
-Cloud:     Azure, Firebase
-DevOps:    Docker, Git, Linux, Terraform, Kubernetes
-AI:        Local LLMs, Ollama, Whisper
+I also built [know-India](https://github.com/aryanjsx/know-India). Know India is a full-stack tourism and cultural discovery platform that I understand you have been building since 2021. Its purpose is to help people explore India's geography, heritage, traditions, festivals, cuisine, and tourist destinations through one interactive platform.
+But the deeper idea is not simply to create another travel website. It's to make India easier to understand before someone decides where to travel.
 
-Building:  AURA — Offline AI Developer Assistant
-Goal:      Building privacy-first developer tools powered by local AI
-```
+Check out my [portfolio](https://aryankr.in) for more of my work, read my posts on [Medium](https://aryanjsx.medium.com/), or reach out to me at <me@aryankr.in>
 
-## About Me
+[LinkedIn](https://linkedin.com/in/aryanjsx) · [X](https://x.com/aryanjsx) · [LeetCode](https://leetcode.com/aryanjsx) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/aryanjsx/) · [Instagram](https://instagram.com/aryanjsx)
 
-- **Role:** Software Engineer
-- **Born:** 03 Jan 2001
-- **Current focus:** Data Engineering
-- **Project:** AURA — offline AI developer assistant
-
-## Tech Stack
-
-- **Languages:** JavaScript, Python, Java, SQL
-- **Frontend:** React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express, GraphQL
-- **Databases:** MongoDB, PostgreSQL, MySQL
-- **Cloud:** Azure, Firebase
-- **DevOps:** Docker, Git, Linux, Terraform, Kubernetes
-- **AI:** Local LLMs, Ollama, Whisper
-
-## Connect with me
-
-<div align="center">
-  <a href="https://linkedin.com/in/aryanjsx">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://aryanjsx.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://leetcode.com/aryanjsx">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/aryanjsx/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://instagram.com/aryanjsx">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:me@aryankr.in">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
+<p align="left">
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/AryanKumar-3597/66C0C45B2644C7EC?sharingId=2E8EACBA80B893AF" target="_blank" rel="noopener noreferrer"><img src="./assets/certifications/azure-fundamentals.png" width="48" height="48" alt="Microsoft Certified: Azure Fundamentals" title="Microsoft Certified: Azure Fundamentals" /></a>
+<a href="https://media.licdn.com/dms/image/v2/D561FAQFtJskQa-2S3Q/feedshare-document-images_800/feedshare-document-images_800/1/1730259423591?e=1792627200&v=beta&t=pEeNBgYf9fh87OmeZTQf23fFQbW6FflipQtkSVbLPw4" target="_blank" rel="noopener noreferrer"><img src="./assets/certifications/ltm.jpg" width="48" height="48" alt="Gen Ai Foundations" title="Gen Ai Foundations" /></a>
+<a href="https://www.udemy.com/certificate/UC-2b6d148e-8958-4f4c-9462-68ce7db6186d/" target="_blank" rel="noopener noreferrer"><img src="./assets/certifications/udemy.svg" width="48" height="48" alt="Linux Administration" title="Linux Administration" /></a>
+</p>    
