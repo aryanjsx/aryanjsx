@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hello there! 👋
 
 I'm [**Aryan Kumar**](https://aryankr.in)   
